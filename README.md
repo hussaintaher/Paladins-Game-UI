@@ -1,6 +1,8 @@
 # Paladins-Game-UI
 Paladins Game UI
 
+React Native, Javascript
+
 ## How To Run Project
       
   ## 1. Install Packages
